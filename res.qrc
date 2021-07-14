@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BackButtonSound.wav</file>
+        <file>res/background.wav</file>
+        <file>res/one.wav</file>
+        <file>res/TapButtonSound.wav</file>
+        <file>res/title.png</file>
+        <file>res/Helpbutton.wav</file>
+    </qresource>
+</RCC>
